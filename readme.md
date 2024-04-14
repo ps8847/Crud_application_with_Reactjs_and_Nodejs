@@ -2,6 +2,10 @@
 
 In this project, I've created a simple and easy-to-understand CRUD (Create, Read, Update, Delete) Application that can store user data and perform other CRUD operations as well.
 
+<div style="padding: 10px;">
+    <img src="/CRUD_SERN.png" alt="Crudsern" style="width: 80%; padding: 10px;">
+</div>
+
 ## Overview
 
 The CRUD Application with React.js, Node.js, and MySQL provides a user-friendly interface for managing user data. It allows users to perform CRUD operations seamlessly.
